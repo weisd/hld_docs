@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -252,49 +252,41 @@
   <url>
     <loc>http://hld.docs.jrwx.com/s2/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/s3/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/s4/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/s5/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/s6/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/s7/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/s8/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/s9/</loc>
     <lastmod>2018-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -304,12 +296,10 @@
   
   <url>
     <loc>http://hld.docs.jrwx.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hld.docs.jrwx.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
